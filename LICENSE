@@ -1,0 +1,28 @@
+PROPRIETARY SOFTWARE DISTRIBUTION AND UPDATE LICENSE
+Copyright (c) 2026 Nexus Labs, Inc. / TheDrixx. All Rights Reserved.
+
+1. PURPOSE AND SCOPE
+This repository ("Repository") is maintained exclusively by Nexus Labs, Inc. and TheDrixx ("Copyright Holder") for the sole purpose of hosting official compiled release binaries, update manifests, checksums, and distribution packages ("Software Packages") required by the automated update mechanism and official distribution channels of Nexus Motion ("Software").
+
+2. LIMITED LICENSE GRANT
+Subject to strict compliance with the terms of this License, the Copyright Holder grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download and execute the Software Packages solely for personal or internal use in connection with an official installation of Nexus Motion.
+
+3. STRICT RESTRICTIONS
+You are expressly prohibited from, and shall not permit any third party to:
+(a) Redistribute, mirror, host, upload, sublicense, rent, lease, sell, or otherwise make available any Software Packages, binaries, installers, or update manifests from this Repository on any third-party website, app store, file-sharing service, or repository without prior explicit written authorization from the Copyright Holder;
+(b) Modify, adapt, translate, patch, repackage, inject code into, or create derivative works based upon the Software Packages or any portion thereof;
+(c) Reverse engineer, decompile, disassemble, decrypt, extract assets/scripts (including .pck, .apk, .exe, or binary archives), or otherwise attempt to derive the source code, underlying algorithms, or internal architecture of the Software;
+(d) Remove, alter, obscure, or bypass any copyright notices, digital signatures, watermarks, trademarks, or automated update verification mechanisms embedded within the Software Packages;
+(e) Use automated scripts, scrapers, or bots to abuse bandwidth or mirror the contents of this Repository outside of the official Nexus Motion client update workflow.
+
+4. INTELLECTUAL PROPERTY AND TRADEMARKS
+All title, ownership rights, and intellectual property rights in and to Nexus Motion, the Software Packages, visual assets, and all related documentation remain exclusively with the Copyright Holder. "Nexus Motion", "Nexus Labs", and "Nexus Network" are trademarks of the Copyright Holder. Nothing in this License grants you any right to use these trademarks or branding.
+
+5. TERMINATION
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from the Copyright Holder if you fail to comply with any term(s) of this License. Upon termination, you must immediately cease all use of the Software Packages and destroy all copies in your possession.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE PACKAGES AND ALL CONTENTS OF THIS REPOSITORY ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE PACKAGES IS WITH YOU.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER, ITS AFFILIATES, OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS REPOSITORY OR THE SOFTWARE PACKAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
